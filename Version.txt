@@ -1,1 +1,1 @@
-V5.9 R25.10.18 https://raw.githubusercontent.com/NgocQuangNguyen/Upgrade/main/Robot%20Height%20Measurement%20V5.9%20R25.10.18.xlsm
+V6.0 R25.11.20 https://raw.githubusercontent.com/NgocQuangNguyen/Upgrade/main/Robot%20Height%20Measurement%20V6.0%20R25.11.20.xlsm
